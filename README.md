@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quaz4 aka Will Stewart
 - 👀 I’m interested in the modern web and a11y
-- 🌱 I’m currently learning AWS, Terraform and .NET
+<!---- 🌱 I’m currently learning AWS, Terraform and .NET --->
 - 📫 The best place to find me is on Twitter @will_the_dev
 
 <!---
